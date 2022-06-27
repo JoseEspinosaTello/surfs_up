@@ -8,13 +8,13 @@ W. Avy, is looking to open surf and ice cream shops on the Oahu Island. Before m
 
 June Temperatures
 
-![June Temps](er-images.githubusercontent.com/101822948/173207618-7df164c3-b7bd-470e-8d67-07a9321aaaf0.png)
+![june](https://github.com/JoseEspinosaTello/surfs_up/blob/main/Resources/june.png)
 
 -	The spread between minimum and maximum temperatures was greater in December where recorded highs were 83 degrees and lows at 56 degrees. In June the minimum and maximum were separated by 21 degrees with highs reported at 85 degrees and lows at 64 degrees.
 
 December Temperatures
 
-![December temps](.githubusercontent.com/101822948/173207623-f015152b-d8af-4087-87f1-a017aada43fa.png)
+![dec](https://github.com/JoseEspinosaTello/surfs_up/blob/main/Resources/dec.png)
 
 
 ## Summary
