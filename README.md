@@ -1,6 +1,6 @@
 # surfs_up
 ## Overview
-W. Avy, is looking to open surf and ice cream shops on the Oahu Island. Before making their finaly decision, the company would like a temperature analysis to determine if the weather in Oahu is beneficial towards surf and ice cream shops. W. Avy would like to compare the temperatures on the island during the months of June and December. These two months will help determine if surf and ice cream shops are sustainable year-round. For this project we have extracted weather data between 2010 - 2017 for the months of June and December from an SQLite database. We used this data to create descriptive statistic which will help our client to make their decision.- Data source: Hawaii.sqlite
+W. Avy, is looking to open surf and ice cream shops on the Oahu Island. Before making their finaly decision, the company would like a temperature analysis to determine if the weather in Oahu is beneficial towards surf and ice cream shops. W. Avy would like to compare the temperatures on the island during the months of June and December. These two months will help determine if surf and ice cream shops are sustainable year-round. For this project we have extracted weather data between 2010 - 2017 for the months of June and December from an SQLite database. We used this data to create descriptive statistic which will help our client to make their decision.
 
 ## Results
 -	There were more recorded temperature observations in June at 1700 compared with December at 1517
